@@ -1,2 +1,2 @@
 # GF-Calc
-Simple calculatrice in Purebasic.
+Simple calculatrice in haskell.
